@@ -1,0 +1,25 @@
+/* body{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 50px;
+    background-color: rgb(23, 23, 37);
+    border: 2px solid red;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    border: 1px solid red;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    border: 1px solid red;
+} */
+
